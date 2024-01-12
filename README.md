@@ -1,3 +1,7 @@
+![Screenshot (1270)](https://github.com/tanujgrover9/Netflix-Clone/assets/84788236/608627fd-3388-425c-8ae4-9284764b457a)
+![Screenshot (1271)](https://github.com/tanujgrover9/Netflix-Clone/assets/84788236/cf11c68c-cd8a-4003-85af-548b7796744f)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
